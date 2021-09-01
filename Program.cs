@@ -1,3 +1,4 @@
+
 ﻿using System;
 
 namespace ConsoleApp4
@@ -7,6 +8,7 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            console.ReadLine();
         }
     }
 }
